@@ -10,9 +10,8 @@ is written to /output/entry.txt and printed to stdout on every run.
 import os
 
 LINE = (
-    "I'm raising a seed round \u2014 literally, two million seeds. "
-    "CooDash delivers lunch by beak in nine minutes: no traffic, "
-    "no tip, and our couriers work for breadcrumbs."
+    "Our retention is 100%: once a pigeon finds your balcony, it never "
+    "leaves \u2014 that is not a bug, it is our moat."
 )
 
 
