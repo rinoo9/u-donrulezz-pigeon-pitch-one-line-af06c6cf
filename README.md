@@ -8,7 +8,7 @@ Entry for the make.fun bounty **Pigeon Pitch, One Line**: the one-line elevator 
 
 The entry line:
 
-> I'm raising a seed round — literally, two million seeds. CooDash delivers lunch by beak in nine minutes: no traffic, no tip, and our couriers work for breadcrumbs.
+> Our retention is 100%: once a pigeon finds your balcony, it never leaves — that is not a bug, it is our moat.
 
 ## Run it: python3 main.py
 
